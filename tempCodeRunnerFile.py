@@ -1,0 +1,2 @@
+hscore):
+            #     hscore = str(score
